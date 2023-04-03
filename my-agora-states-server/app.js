@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-//주석//
+
 const cors = require("cors");
 const morgan = require("morgan");
 
